@@ -1,4 +1,4 @@
-# Python課程
+# Python第二堂上課
 
 # Task 2 calendar
 <img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/bee79140-be9b-4ab3-bbd4-8e4856a5a382" />
