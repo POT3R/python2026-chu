@@ -3,5 +3,5 @@
 # Task 2 calendar
 <img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/bee79140-be9b-4ab3-bbd4-8e4856a5a382" />
 
-# Task 3 Python version checK
+# Task 3 Python version check
 <img width="1904" height="424" alt="image" src="https://github.com/user-attachments/assets/1dbe3687-0967-476b-805d-9ddec0c584cb" />
