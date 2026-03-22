@@ -1,7 +1,23 @@
 # Practice
 
-P01-01 Hello
+## P01-01 Hello
 題目： 印出 "Hello, Python! I am TA Grace. Nice to meet you, 2026"。
+<img width="1104" height="95" alt="image" src="https://github.com/user-attachments/assets/4a23b1a0-cce2-4612-af64-8a0c9c188fe4" />
+
+## P01-02 My Name
+題目： 宣告變數 name 並印出。
+<img width="1097" height="96" alt="image" src="https://github.com/user-attachments/assets/b15ba3c5-a01b-4aa7-bed5-1facecb368e9" />
+
+## P01-03 Self Intro
+題目： 結合字串印出 "I am [Name]"。
+<img width="1092" height="99" alt="image" src="https://github.com/user-attachments/assets/a821e8d7-a91f-4e4c-ba65-1a02a04b2c61" />
+
+## P01-04 Basic Math題目： 計算 $10 + 5$ 並印出，並練習其他計算方法。
+<img width="1103" height="332" alt="image" src="https://github.com/user-attachments/assets/54259176-0f3d-48d4-a689-c9718d9ba57c" />
+
+## P01-05 Multi-print
+題目： 同一行印出多個值 print(1, 2, 3)。
+<img width="1104" height="90" alt="image" src="https://github.com/user-attachments/assets/01cd330f-fb95-44d9-9581-ee79e5645b37" />
 
 ## 01-06 Separator
 題目：
@@ -11,25 +27,31 @@ P01-01 Hello
 ## 01-07 End param
 題目：
 使用 end 參數，讓以下輸出結果在同一行：
+<img width="1092" height="102" alt="image" src="https://github.com/user-attachments/assets/063c1881-ef3d-461b-b20d-7b742be6893e" />
 
 ## 01-08 Variables Swap(Temp)
 題目：
 使用「第三個變數」交換 a = 10 與 b = 20 的值。
+<img width="1091" height="215" alt="image" src="https://github.com/user-attachments/assets/23c08af7-67e3-4420-879f-5c65ce0b7241" />
+
 
 ## 01-09 Python Swap
 題目：
 使用 Python 的語法，直接交換 a = 10 與 b = 20 的值（不可使用第三個變數）。
+<img width="1086" height="177" alt="image" src="https://github.com/user-attachments/assets/4ad958f5-0a3b-45b5-a8d5-c4a7b0d279c2" />
+
 
 ## 01-10 Input題目：
 請輸入使用者姓名，並輸出：
+<img width="1093" height="113" alt="image" src="https://github.com/user-attachments/assets/9aca865a-0b99-4bab-90eb-b40ba732aad5" />
 
 ## 01-11 Input Int
 題目：
 輸入年齡（整數），並輸出該年齡。
+<img width="1096" height="118" alt="image" src="https://github.com/user-attachments/assets/6ae3e754-db12-4c0a-80c6-88ca4d8b78d6" />
 
 ## 01-12 Input Float
 題目：
 輸入身高（含小數），並輸出該數值。
-<img width="1475" height="519" alt="image" src="https://github.com/user-attachments/assets/074dc48f-cb53-497f-bb87-1fd49cc157ef" />
-# task 06-12
-<img width="1160" height="765" alt="image" src="https://github.com/user-attachments/assets/443b61a0-b834-4053-ba32-f29520fdfc2f" />
+<img width="1089" height="115" alt="image" src="https://github.com/user-attachments/assets/a3ee437b-f9af-4175-9138-1f8a1d3bc9b6" />
+
