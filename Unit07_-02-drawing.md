@@ -13,3 +13,8 @@
 
 <img width="863" height="648" alt="image" src="https://github.com/user-attachments/assets/3e82f5e9-e571-44a5-b079-df25619866d5" />
 <img width="1146" height="675" alt="image" src="https://github.com/user-attachments/assets/0e3e8705-9984-4213-9483-39c6f8a5cf76" />
+
+# 嵌套圖形
+<img width="1116" height="669" alt="image" src="https://github.com/user-attachments/assets/4cdb3afc-3cae-40a5-9031-379391aa0b21" />
+<img width="749" height="210" alt="image" src="https://github.com/user-attachments/assets/9a045055-a283-4016-8b84-1b4b7effc1d0" />
+<img width="532" height="344" alt="image" src="https://github.com/user-attachments/assets/89a19065-6739-4dcb-ae33-c96b99c11b54" />
