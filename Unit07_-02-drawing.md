@@ -9,3 +9,7 @@
 
 <img width="1072" height="704" alt="image" src="https://github.com/user-attachments/assets/ffa85906-4bce-4a0a-bbab-7ed96b3638fa" />
 
+# 五角星 (144度) (72) 五邊形
+
+<img width="863" height="648" alt="image" src="https://github.com/user-attachments/assets/3e82f5e9-e571-44a5-b079-df25619866d5" />
+<img width="1146" height="675" alt="image" src="https://github.com/user-attachments/assets/0e3e8705-9984-4213-9483-39c6f8a5cf76" />
